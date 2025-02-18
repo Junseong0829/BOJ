@@ -1,2 +1,2 @@
 # BOJ
-Baekjoon Problem Solving code
+Repository_auto push PS solving code with @Baekjoonhub
